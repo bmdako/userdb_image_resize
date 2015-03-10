@@ -1,0 +1,19 @@
+{
+  "name": "userdb_image_resize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "aws-sdk": "^2.1.16",
+    "gm": "^1.17.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-zip": "^2.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
